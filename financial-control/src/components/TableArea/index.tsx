@@ -5,10 +5,10 @@ export const TableArea = () => {
         <C.Table>
             <thead>
                 <tr>
-                    <C.TableHeadColumn> Date</C.TableHeadColumn>
-                    <C.TableHeadColumn> Category</C.TableHeadColumn>
+                    <C.TableHeadColumn width={100}> Date</C.TableHeadColumn>
+                    <C.TableHeadColumn width={130}> Category</C.TableHeadColumn>
                     <C.TableHeadColumn> Title</C.TableHeadColumn>
-                    <C.TableHeadColumn> Value</C.TableHeadColumn>
+                    <C.TableHeadColumn width={150}> Value</C.TableHeadColumn>
                 </tr>
             </thead>
             <tbody>
