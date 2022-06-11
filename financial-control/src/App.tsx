@@ -8,11 +8,13 @@ const App = () => {
       </C.Header>
 
       <C.Body>
+
         {/*Área de informações*/}
         
         {/*Área de inserção*/}
         
         {/*Tabela de itens*/}
+        
       </C.Body>
     </C.Container>
   );
