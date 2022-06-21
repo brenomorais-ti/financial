@@ -27,7 +27,8 @@ const App = () => {
   return (
     <C.Container>
       <C.Header>
-        <C.HeaderText> Financial Control </C.HeaderText>
+        <C.HeaderText> Financial</C.HeaderText>
+        <C.HeaderText> Control </C.HeaderText>
       </C.Header>
 
       <C.Body>
